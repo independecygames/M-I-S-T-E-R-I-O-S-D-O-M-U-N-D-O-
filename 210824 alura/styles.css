@@ -1,0 +1,22 @@
+body {
+    color: rgba(231, 205, 205, 0.452);
+    background: black;
+}
+header {
+    border-bottom: solid 2px rgb(95, 128, 170);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(228, 109, 109);
+}
+section {
+    background: rgb(107, 113, 121);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}div {
+    margin-right: 50px;
+}
+img {
+    height: 200px;
+  }
